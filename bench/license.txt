@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bench
+* source:	https://sketchfab.com/3d-models/bench-d0af244b3ab34d3b978deffac44d1a26
+* author:	bez_glaza (https://sketchfab.com/bez_glaza)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bench" (https://sketchfab.com/3d-models/bench-d0af244b3ab34d3b978deffac44d1a26) by bez_glaza (https://sketchfab.com/bez_glaza) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
